@@ -1,0 +1,1 @@
+TEST_STR="\u4f60\u5927\u7237",fun=()=>{console.log("\u6211\u662f\u4f60\u7238\u7238")};
